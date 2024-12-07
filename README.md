@@ -8,4 +8,4 @@ python3 main.py
 ```
 
 ## Goals
-[ ] Setting menu with options such as changing the number of spawned jellyfish.
+- [ ] Setting menu with options such as changing the number of spawned jellyfish.
