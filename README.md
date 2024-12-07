@@ -3,6 +3,7 @@
 Minigame made for my AP CS Principles: Game Design's performance task.
 
 ## Usage
+(Dependencies: pygame)
 ```
 python3 main.py
 ```
